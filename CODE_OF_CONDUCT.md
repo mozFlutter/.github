@@ -37,7 +37,7 @@ Os administradores da MozFlutter têm o direito e a responsabilidade de:
 
 Caso presencies ou sofras algum comportamento inadequado, entra em contacto com os administradores da comunidade através dos canais oficiais.
 
-## ❤️ Final
+## Final
 
 A MozFlutter existe para **aprender, crescer e construir juntos**.  
 Ao fazer parte da comunidade, ajudas a torná-la melhor para todos.
