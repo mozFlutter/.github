@@ -63,11 +63,11 @@ Alguns repositórios que encontrarás:
 
 ## Emails de contacto
 
-- **Contacto/ Parcerias:**: mozflutter.contact@gmail.com
-- **Informações/ Dúvidas:**: mozflutter.info@gmail.com
-- **Media/ Imprensa:**: mozflutter.social@gmail.com
-- **Eventos/ Meetups:**: mozflutter.events@gmail.com
-- **Colaborações/ Contribuições:**: mozflutter.tech@gmail.com
+- **Contacto/ Parcerias:** mozflutter.contact@gmail.com
+- **Informações/ Dúvidas:** mozflutter.info@gmail.com
+- **Media/ Imprensa:** mozflutter.social@gmail.com
+- **Eventos/ Meetups:** mozflutter.events@gmail.com
+- **Colaborações/ Contribuições:** mozflutter.tech@gmail.com
 
 ## Canais Oficiais
 
