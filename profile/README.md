@@ -61,11 +61,26 @@ Alguns repositórios que encontrarás:
 - `starter-*` → templates Flutter
 - `projects-*` → projetos comunitários -->
 
+## Emails de contacto
+
+- **Contacto/ Parcerias:**: mozflutter.contact@gmail.com
+- **Informações/ Dúvidas:**: mozflutter.info@gmail.com
+- **Media/ Imprensa:**: mozflutter.social@gmail.com
+- **Eventos/ Meetups:**: mozflutter.events@gmail.com
+- **Colaborações/ Contribuições:**: mozflutter.tech@gmail.com
+
 ## Canais Oficiais
 
 - **GitHub:** https://github.com/mozFlutter
 - **WhatsApp:** https://chat.whatsapp.com/LDCa69V6G6m2EPvHlLEjiz
+- **LinkedIn:** https://www.linkedin.com/company/fluttermoz/
+- **Instagram:** https://www.instagram.com/mozflutter
+- **Twitter:** https://x.com/mozflutter
+- **TikTok:** https://www.tiktok.com/@mozflutter
+- **Facebook:** https://www.facebook.com/flutterMoz
 - **Telegram:** https://t.me/FlutterMoz
+  <!-- - **Discord:** https://discord.gg/mozflutter -->
+  <!-- - **YouTube:** https://www.youtube.com/@mozflutter -->
 
 ## Código de Conduta
 
