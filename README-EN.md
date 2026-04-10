@@ -11,6 +11,8 @@
 
 # MozFlutter Community
 
+[![MozFlutter Social Banner](./.github/images/mozflutter-social-banner.png)](https://www.mozflutter.com)
+
 Welcome to **MozFlutter**, the Flutter community of Mozambique.
 
 This repository serves as a **central hub** for the community, containing information about who we are, how to participate, active projects, and how to contribute.
